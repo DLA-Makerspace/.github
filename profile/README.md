@@ -5,7 +5,7 @@
 
 
 
-### [🚀 Use the web application here to access:](https://dlamaker.space/dashboard/home)
+### The (no longer hosted) web application is designed to provide access to:
 - 🌈 Jess when she is not on-site 👍
 - The space's staffing calendar
 - General DLA makerspace information & usage agreement
