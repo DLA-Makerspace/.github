@@ -1,8 +1,5 @@
 
-## We are a small fabrication laboratory located on the fourth floor of Kennedy Hall, nestled within Cornell's Landscape Architecture Department. 
-
-
-
+## We were a small fabrication laboratory located on the fourth floor of Kennedy Hall, nestled within Cornell's Landscape Architecture Department. 
 
 
 ### The (no longer hosted) web application is designed to provide access to:
